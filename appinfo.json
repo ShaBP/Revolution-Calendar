@@ -1,0 +1,205 @@
+{
+    "shortName": "RevolutionCal",
+    "versionCode": 201,
+    "watchapp": {
+        "watchface": true
+    },
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0.0",
+    "companyName": "ShaBP",
+    "longName": "RevolutionCalendar",
+    "appKeys": {},
+    "uuid": "eb19f91d-b13f-4d16-a4d7-a9d56ecf1119",
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "file": "images/RevolutionCal_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/status3.png",
+                "name": "IMAGE_STATUS_3",
+                "type": "png"
+            },
+            {
+                "file": "images/status2.png",
+                "name": "IMAGE_STATUS_2",
+                "type": "png"
+            },
+            {
+                "file": "images/status1.png",
+                "name": "IMAGE_STATUS_1",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery Charging.png",
+                "name": "ICON_BATTERY_CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Bluetooth disconnected.png",
+                "name": "BLUETOOTH_DISCONNECTED",
+                "type": "png"
+            },
+            {
+                "file": "images/bluetooth.png",
+                "name": "BLUETOOTH_CONNECTED",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery 100.png",
+                "name": "ICON_BATTERY_100",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery 90.png",
+                "name": "ICON_BATTERY_90",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery 80.png",
+                "name": "ICON_BATTERY_80",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery 70.png",
+                "name": "ICON_BATTERY_70",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery 60.png",
+                "name": "ICON_BATTERY_60",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery 50.png",
+                "name": "ICON_BATTERY_50",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery 40.png",
+                "name": "ICON_BATTERY_40",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery 30.png",
+                "name": "ICON_BATTERY_30",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery 20.png",
+                "name": "ICON_BATTERY_20",
+                "type": "png"
+            },
+            {
+                "file": "images/Icon Battery 10.png",
+                "name": "ICON_BATTERY_10",
+                "type": "png"
+            },
+            {
+                "file": "images/date_9.png",
+                "name": "IMAGE_DATE_9",
+                "type": "png"
+            },
+            {
+                "file": "images/date_8.png",
+                "name": "IMAGE_DATE_8",
+                "type": "png"
+            },
+            {
+                "file": "images/date_7.png",
+                "name": "IMAGE_DATE_7",
+                "type": "png"
+            },
+            {
+                "file": "images/date_6.png",
+                "name": "IMAGE_DATE_6",
+                "type": "png"
+            },
+            {
+                "file": "images/date_5.png",
+                "name": "IMAGE_DATE_5",
+                "type": "png"
+            },
+            {
+                "file": "images/date_4.png",
+                "name": "IMAGE_DATE_4",
+                "type": "png"
+            },
+            {
+                "file": "images/date_3.png",
+                "name": "IMAGE_DATE_3",
+                "type": "png"
+            },
+            {
+                "file": "images/date_2.png",
+                "name": "IMAGE_DATE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/date_1.png",
+                "name": "IMAGE_DATE_1",
+                "type": "png"
+            },
+            {
+                "file": "images/date_0.png",
+                "name": "IMAGE_DATE_0",
+                "type": "png"
+            },
+            {
+                "file": "images/time_9.png",
+                "name": "IMAGE_TIME_9",
+                "type": "png"
+            },
+            {
+                "file": "images/time_8.png",
+                "name": "IMAGE_TIME_8",
+                "type": "png"
+            },
+            {
+                "file": "images/time_7.png",
+                "name": "IMAGE_TIME_7",
+                "type": "png"
+            },
+            {
+                "file": "images/time_6.png",
+                "name": "IMAGE_TIME_6",
+                "type": "png"
+            },
+            {
+                "file": "images/time_5.png",
+                "name": "IMAGE_TIME_5",
+                "type": "png"
+            },
+            {
+                "file": "images/time_4.png",
+                "name": "IMAGE_TIME_4",
+                "type": "png"
+            },
+            {
+                "file": "images/time_3.png",
+                "name": "IMAGE_TIME_3",
+                "type": "png"
+            },
+            {
+                "file": "images/time_2.png",
+                "name": "IMAGE_TIME_2",
+                "type": "png"
+            },
+            {
+                "file": "images/time_1.png",
+                "name": "IMAGE_TIME_1",
+                "type": "png"
+            },
+            {
+                "file": "images/time_0.png",
+                "name": "IMAGE_TIME_0",
+                "type": "png"
+            }
+        ]
+    }
+}
