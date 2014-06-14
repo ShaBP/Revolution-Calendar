@@ -9,7 +9,7 @@ US format for the date to be added...
 
 Thank you, Douwe!
 
-Preview:
+
 ![screenshot](https://www.filepicker.io/api/file/HuL285WJRHqrQq5FtWpk/convert?fit=crop&format=png&h=168&w=144 "Screenshot")
 
 ![screenshot](https://www.filepicker.io/api/file/8LCJ1iSQVOwMujL3WUDS/convert?fit=crop&w=144&h=168 "Screenshot")
